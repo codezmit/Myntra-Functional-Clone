@@ -4,7 +4,6 @@
 
 ### A Modern E-Commerce Platform Built with HTML, CSS & JavaScript
 
-![Myntra Clone](https://img.shields.io/badge/Platform-E%2DCommerce-blueviolet?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML-5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-3-1572b6?style=for-the-badge&logo=css3&logoColor=white)
@@ -23,7 +22,6 @@
 - [📦 Installation](#-installation)
 - [🚀 Usage](#-usage)
 - [📁 Project Structure](#-project-structure)
-- [🎨 Screenshots](#-screenshots)
 - [💡 Key Highlights](#-key-highlights)
 - [🔧 How to Contribute](#-how-to-contribute)
 - [📞 Contact](#-contact)
@@ -144,7 +142,6 @@ Myntra-Functional-Clone/
 
 ---
 
-## 🎨 Screenshots
 
 ### 🏠 Homepage with Product Showcase
 ```
